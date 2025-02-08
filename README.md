@@ -1,1 +1,1 @@
-# superduper-waffle
+# super-duper-waffle
